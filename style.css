@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+header{
+    color: aliceblue;
+    text-align: center;
+    font-size: 300%;
+    background-color: darkgray;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 200%;
+    background-color: darkgray;
+}
+img{
+    width: 20%;
+}
+#fajo{
+    width: 10%;
+}
